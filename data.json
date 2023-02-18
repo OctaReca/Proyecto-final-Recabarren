@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "nombre": "Harina",
+        "precio": 50,
+        "img": "../img/Harina.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 2,
+        "nombre": "Pan",
+        "precio": 100,
+        "img": "../img/Pan.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 3,
+        "nombre": "Galletas",
+        "precio": 150,
+        "img": "../img/Galletas.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 4,
+        "nombre": "Leche",
+        "precio": 200,
+        "img": "../img/Leche.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 5,
+        "nombre": "Cerveza",
+        "precio": 250,
+        "img": "../img/Cerveza.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 6,
+        "nombre": "Gaseosa",
+        "precio": 300,
+        "img": "../img/Gaseosas.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 7,
+        "nombre": "Pescado",
+        "precio": 350,
+        "img": "../img/Pescado.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 8,
+        "nombre": "Vino",
+        "precio": 400,
+        "img": "../img/Vino.png",
+        "cantidad": 1
+    },
+    {
+        "id": 9,
+        "nombre": "Pollo",
+        "precio": 450,
+        "img": "../img/Pollo.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 10,
+        "nombre": "Carne",
+        "precio": 500,
+        "img": "../img/Carne.jpg",
+        "cantidad": 1
+    }
+]
